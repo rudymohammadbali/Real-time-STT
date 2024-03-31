@@ -1,0 +1,12 @@
+Using audio file:
+
+[0.00s -> 4.56s] A golden sunrise painted the sky, casting a warm glow on the quiet town below.
+[5.44s -> 8.32s] The aroma of freshly baked bread wafted through the air.
+[9.28s -> 13.52s] The town was waking up, ready to embrace a new day full of possibilities.
+
+Real-time transcription:
+
+You said:  The golden sunrise painted the sky, casting a warm glow on the quiet town below.
+You said:  the aroma of freshly baked bread wafted through the air.
+You said:  The town was waking up, ready to embrace a new day full of possibilities.
+

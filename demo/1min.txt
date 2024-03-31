@@ -1,0 +1,27 @@
+Using audio file:
+
+[0.00s -> 3.12s] In the heart of a bustling city, there was a quaint little bookstore.
+[4.08s -> 8.16s] This wasn't your typical bookstore filled with best-sellers and popular titles.
+[9.20s -> 14.16s] Instead, it was a haven for rare and antique books, each with its own unique story to tell.
+[15.20s -> 19.68s] The owner, an elderly gentleman named Mr. Bennett, had a profound love for books.
+[20.64s -> 25.28s] He believed that every book had a soul, a piece of the author's heart embedded in the pages.
+[26.24s -> 30.80s] He spent his days lovingly caring for these books, restoring them to their former glory.
+[31.84s -> 35.52s] One day, a young girl named Lucy stumbled upon the bookstore.
+[35.52s -> 38.24s] She was immediately captivated by the charm of the place.
+[39.28s -> 43.84s] As she explored the labyrinth of bookshelves, she felt a sense of wonder and excitement.
+[44.80s -> 47.84s] Each book she picked up was a portal to a different world,
+[47.84s -> 49.76s] a treasure trove of knowledge and adventure.
+
+
+Real-time transcription:
+
+You said:  In the heart of a bustling city, there was a quaint little bookstore.
+You said:  This wasn't your typical bookstore filled with best sellers and popular titles.
+You said:  Instead, it was a haven for rare and antique books, each with its own unique story to tell.
+You said:  The owner, an elderly gentleman named Mr. Bennett, had a profound love for books.
+You said:  He believed that every book had a soul, a piece of the author's heart embedded in the pages.
+You said:  He spent his days lovingly caring for these books, restoring them to their former glory.
+You said:  She was immediately captivated by the charm of the place.
+You said:  As she explored the labyrinth of bookshelves, she felt a sense of wonder and excitement.
+You said:  Each book she picked up was a portal to a different world, a treasure trove of knowledge and adventure.
+

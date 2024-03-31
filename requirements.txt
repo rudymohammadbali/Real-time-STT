@@ -1,0 +1,15 @@
+# Python version: 3.7-3.9 (tested on 3.8)
+
+# CUDA 11.8
+# pip install torch==2.0.0 torchvision==0.15.1 torchaudio==2.0.1 --index-url https://download.pytorch.org/whl/cu118
+# CPU only
+# pip install torch==2.0.0 torchvision==0.15.1 torchaudio==2.0.1 --index-url https://download.pytorch.org/whl/cpu
+
+# CUDA Toolkit 12
+# https://developer.nvidia.com/cuda-downloads
+
+
+SpeechRecognition==3.10.1
+faster-whisper==1.0.1
+
+PyAudio~=0.2.14
